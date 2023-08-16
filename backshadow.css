@@ -1,0 +1,20 @@
+div{
+	height: 200px;
+	width: 200px;
+
+	
+}
+.a{
+	background-color: lawngreen;
+	box-shadow: 5px 5px 3px green;
+	float: left;
+	margin-right: 30px;
+	
+}
+.b{
+	background-color: hotpink;
+	box-shadow: 5px 5px 3px pink;
+	float: left;
+	
+
+}

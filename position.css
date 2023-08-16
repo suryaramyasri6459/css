@@ -1,0 +1,26 @@
+div{
+	height: 300px;
+	width: 200px;
+
+}
+.a{
+	background-color: grey;
+	float: left;
+	position:static;
+	top: 30px;
+}
+.b{
+	background-color: pink;
+	float: left;
+	/*position: relative;
+	top:30px;
+	left: 70px;*/
+}
+.c{
+	background-color: lightgreen;
+	float: left;
+}
+.d{
+	background-color: skyblue;
+	float: left;
+}

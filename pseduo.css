@@ -1,0 +1,16 @@
+a:link{
+	color: brown;
+}
+a:hover{
+	color: pink;
+	font-size: 500px;
+}
+a:active{
+	color: green;
+}
+a
+div:hover{
+	color: seagreen;
+	height: 500px;
+	width: 600px;
+}

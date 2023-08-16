@@ -1,0 +1,25 @@
+h2{
+	color: hotpink;
+	font-style: italic;
+}
+input[type="text"]{
+	color: blue;
+}
+input[type="number"]{
+	color: red;
+}
+input[type="password"]{
+	color: peachpuff;
+}
+a[href]{
+	background-color:greenyellow;
+}
+marquee{
+	background-color: pink;
+	color: blue;
+}
+img[src]{
+	border: 10px;
+	height: 500px;
+	width: 600px;
+}

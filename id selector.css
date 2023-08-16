@@ -1,0 +1,25 @@
+/*#abc{
+	font-size: 50px;
+	font-family: cursive;
+	color: blue;
+}
+h1{
+
+	font-family: sans-serif;
+
+}
+p{
+	color: darkgoldenrod;
+	font-family: cursive;
+	font-size: 40px;
+
+}
+*{
+	color:hotpink;
+	font-style: italic;
+	background-color:skyblue;
+}*/
+body{
+	background-image: url('pic3.jpg');
+	background-size: cover;
+}
